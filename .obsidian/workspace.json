@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "836f405d3dbf48db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nativos digitales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligencia Artificial.md",
+                "file": "Nativos digitales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligencia Artificial.md",
+                "file": "Nativos digitales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligencia Artificial.md"
+                "file": "Nativos digitales.md"
               }
             }
           }
@@ -155,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de5e35eba3ba381a",
+  "active": "836f405d3dbf48db",
   "lastOpenFiles": [
-    "Inteligencia Artificial.md"
+    "Inteligencia Artificial.md",
+    "Nativos digitales.md",
+    "README.md"
   ]
 }
