@@ -1,5 +1,6 @@
 
-INVESTIGACION 1
+<mark>INVESTIGACION 1</mark>
+
 
 - El término "nativos digitales" se refiere a las personas que han crecido en un entorno digital, lo que significa que han estado expuestas a tecnologías digitales y dispositivos electrónicos desde una edad temprana.
     
@@ -16,17 +17,21 @@ INVESTIGACION 1
 
 ---
 
-INVESTIGACION 2
+<mark>INVESTIGACION 2</mark>
 
-Reino Unido
+
+<h2>Reino Unido</h2>
+
 
 > El más reciente libro del neurocientífico Michel Desmurget, con sede en Lyon y nacido en 1965, lleva por título un enfoque directo y contundente sobre el impacto negativo de los dispositivos digitales en el desarrollo neuronal de niños y jóvenes. En su calidad de director de investigación en el Instituto Nacional de la Salud de Francia, el autor presenta datos sólidos que demuestran cómo estos dispositivos están teniendo graves consecuencias para su desarrollo cerebral.
 
-efecto flynn
+<h2>efecto flynn</h2>
+
 
  - En muchas partes del mundo que el coeficiente intelectual aumentaba de generación en generación. A esto se le llamó el 'efecto Flynn', en referencia al psicólogo estadounidense que describió este fenómeno.
 
-REDUCCION DEL EFECTO FLYNN:
+<h2>REDUCCION DEL EFECTO FLYNN:</h2>
+
 
 - Es verdad que el coeficiente intelectual se ve fuertemente afectado por factores como el sistema de salud, el sistema escolar, la nutrición....
 
@@ -34,7 +39,8 @@ Pero si tomamos países donde los factores socioeconómicos se han mantenido bas
 
 En esos países los "nativos digitales" son los primeros niños que tienen un coeficiente intelectual más bajo que sus padres. Es una tendencia que se ha documentado en Noruega, Dinamarca, Finlandia, Países Bajos, Ftelectualrancia, etc.
 
-¿Y qué está provocando esta disminución del coeficiente in?
+<h2>¿Y qué está provocando esta disminución del coeficiente intelectual?</h2>
+
 
 - Por desgracia, aún no es posible determinar el papel específico de cada factor, incluida por ejemplo la contaminación (especialmente la exposición temprana a pesticidas) o la exposición a las pantallas.
 
