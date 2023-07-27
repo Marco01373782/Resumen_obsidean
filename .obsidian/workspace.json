@@ -16,91 +16,19 @@
             }
           },
           {
-            "id": "de5e35eba3ba381a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inteligencia Artificial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "836f405d3dbf48db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nativos digitales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63afca9c52befb79",
+            "id": "6dfad5873731d1e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Python Basico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a593de629fd19dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Basico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8dc79d619d6dd06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c2bade97231c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "introduccion a Nestjs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9482f75522980db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Python Basico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Python Basico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Python Basico.md"
               }
             }
           }
@@ -227,16 +155,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9482f75522980db",
+  "active": "6dfad5873731d1e5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "Python Basico.md",
     "practica chatgpt.md",
+    "imagenes/descarga (4).jpg",
     "Pandas.md",
+    "imagenes/descarga (3).jpg",
     "Nativos digitales.md",
-    "introduccion a Nestjs.md",
+    "Introducción a Nestjs.md",
     "Inteligencia Artificial.md",
+    "descarga.png",
+    "imagenes/descarga (2).jpg",
+    "descargag 2.jpg",
+    "imagenes/descarga 2.jpg",
+    "imagenes/Untitled.md",
+    "imagenes/descarga 1.jpg.md",
+    "imagenes/descarga (1).jpg",
+    "descarga 1.jpg",
+    "1.md",
+    "22.md",
+    "imagenes",
+    "imagenes/descarga.jpg",
+    "gsgd",
+    "README.md",
+    "Untitled.md",
+    "Python Basico.md",
     "Machine Learning.md"
   ]
 }
